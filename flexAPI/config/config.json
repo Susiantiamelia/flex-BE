@@ -17,7 +17,7 @@
     "username": "postgres",
     "password": "54L8JSdSpLRKeRg2eEGu",
     "database": "railway",
-    "host": "containers-us-west-25.railway.app",
+    "host": "containers-us-west-25.railway.app:7240",
     "dialect": "postgres"
   }
 }
